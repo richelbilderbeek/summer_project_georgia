@@ -3,7 +3,7 @@
  Summer project by Gina Tsaridou.
  
  * Timespan: approx 6 weeks full-time in the summer of 2021,
-   ?June 14th - ?
+   Monday June 14th - Friday July 23th
  * Supervision:
     * June: [Willy](https://github.com/FrieseWoudloper) and Richel
     * July: Richel and maybe Willy
@@ -20,16 +20,16 @@
 
 Week|What
 ----|-----------------------------------------------
-1   |Submit idea to customer
-2   |Wait
-3   |Implement accepted idea for customer, else resubmit
-4   |Wait
-5   |Implement accepted idea for customer, else resubmit
-6   |Implement accepted idea for customer, else project failed
+24  |Submit idea to customer
+25  |Wait
+26  |Implement accepted idea for customer, else resubmit
+27  |Wait
+28  |Implement accepted idea for customer, else resubmit
+29  |Implement accepted idea for customer, else project failed
 
 Week|What
 ----|-----------------------------------------------
-1   |Setup `netmhcpanr`
-2   |Improve `netmhcpanr`
-?6  |Submit to CRAN or rOpenSci
+24  |Setup `netmhcpanr`
+25  |Improve `netmhcpanr`
+29  |Submit to CRAN or rOpenSci
 
