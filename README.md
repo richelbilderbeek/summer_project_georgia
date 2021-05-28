@@ -5,8 +5,7 @@
  * Timespan: approx 6 weeks full-time in the summer of 2021,
    Monday June 14th - Friday July 23th
  * Supervision:
-    * June: [Willy](https://github.com/FrieseWoudloper) and Richel
-    * July: Richel and maybe Willy
+    * [Willy](https://github.com/FrieseWoudloper) and Richel
   * Goals: in R:
     1. Write a package `netmhcpanr`, to work with 
       [NetMHCpan](https://services.healthtech.dtu.dk/service.php?NetMHCpan-4.1), 
